@@ -1,0 +1,12 @@
+
+select {
+  border-radius: 25px;
+  width: 125px;
+  height: 30px;
+}
+
+ {
+  width: 120px;
+  height: 50px;
+  border-radius: 25px 25px 25px 25px;
+}
