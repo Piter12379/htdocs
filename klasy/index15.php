@@ -7,6 +7,7 @@
 <body>
 <?php
 include "klasy.php";
+
 $dzial = new dzialania();
 echo $dzial -> autor;
 
